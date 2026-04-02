@@ -1,1 +1,1 @@
-# CS_505067-Data-Analysis-And-Visualization
+# CS_505067-Data-Analysis-and-Visualization
